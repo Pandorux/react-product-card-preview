@@ -12,4 +12,6 @@ body {
   @media (prefers-color-scheme: dark) {
     color-scheme: dark;
   }
+
+  background-color: hsl(30, 38%, 92%);
 }
